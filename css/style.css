@@ -327,6 +327,22 @@ a[class*="__tel"]:hover {
   margin: 0px 0px 70px 0px;
 }
 
+.portfolio-page__body {
+  font-size: 0;
+}
+
+.portfolio-page__img {
+  width: 90%;
+  display: inline-block;
+}
+
+.portfolio-page__scroll {
+  width: 10%;
+  display: inline-block;
+  vertical-align: bottom;
+  margin: 0px 0px 400px 0px;
+}
+
 /* ===================================== */
 .offer-page {
   background: #1a1f25;
